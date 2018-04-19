@@ -7,6 +7,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class TerceiroExemploComponent implements OnInit {
 
+  idade: number;
+  
   constructor() { }
 
   ngOnInit() {
