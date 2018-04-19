@@ -30,4 +30,9 @@ public mostrarNoticias() {
   this.mostrarNoticia = true;
 }
 
+titulo: string = 'Curso Angular';
+texto: string = 'Utilizando String Interpolation';
+
+caminho_imagem: string = '../../assets/cachorro.jpg';
+
 }
